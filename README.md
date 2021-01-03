@@ -1,1 +1,1 @@
-# server
+discordbothosting.github.io
